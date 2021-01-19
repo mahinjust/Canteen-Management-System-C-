@@ -1,1 +1,2 @@
 # Canteen-Management-System
+The objective of the system is to automate all the activities of the canteen right from purchases to delivery of food/beverage items. The system should maintain a detailed account of all provisions bought and food served at the canteen. In addition to this, it should also maintain the daily expenses incurred by the staff. The system should provide an interface to payroll for deductions. Several inquiry facilities should also be provided to view the expenses incurred/ planned menus/cash payment etc.
